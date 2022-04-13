@@ -1,17 +1,17 @@
 # SNIPPETBOX
 
-_Proyecto desarrollado en GOLANG
+_Proyecto desarrollado en GOLANG_
 
 
 ## Descripción de la aplicación  
 
-_Snippetbox es una aplicación desarrollada en Go desarrollada con fines de estudio a partir del libro Let's Go. Esta aplicación tiene como función crear "snippets", mostrar los 10 últimos creados y crear cuentas. Para poder crear un snippet se requiere de una cuenta, para visualizar el top 10 no se necesita estar registrado.
+_Snippetbox es una aplicación desarrollada en Go desarrollada con fines de estudio a partir del libro Let's Go. Esta aplicación tiene como función crear "snippets", mostrar los 10 últimos creados y crear cuentas. Para poder crear un snippet se requiere de una cuenta, para visualizar el top 10 no se necesita estar registrado._
 
-_Un snippet es un fragmento de texto que incluye; título, contenido y fecha de expiración. Al crearse, también se guarda la fecha de creación. Como se menciona anteriormente, solo personas con cuenta registrada pueden crear un snippet, pero para poder ver alguno a detalle o el listado de ellos no se requiere cuenta.
+_Un snippet es un fragmento de texto que incluye; título, contenido y fecha de expiración. Al crearse, también se guarda la fecha de creación. Como se menciona anteriormente, solo personas con cuenta registrada pueden crear un snippet, pero para poder ver alguno a detalle o el listado de ellos no se requiere cuenta._
 
 _El registro de cuenta es simple, la aplicación pide ingresar; nombre, email y una password. 
 De igual manera, cuando se crea un nuevo usuario, el sistemta tambiên registra la fecha de creación y agrega un campo más para activar o desactivar una cuenta. En cuanto al password, el sistema cifra el strign que se ingresa por seguridad.
-Una persoa puede; registrarse, iniciar sesión y cerrar sesión.
+Una persoa puede; registrarse, iniciar sesión y cerrar sesión._
 
 ### Temas que se tocan
 
@@ -41,7 +41,7 @@ Mocking dependecies
 
 ### Versiones y dependencias
 
-_A continuación se enlistan las versiones y dependencias que fueron utilizadas para el desarrollo de esta aplicación
+_A continuación se enlistan las versiones y dependencias que fueron utilizadas para el desarrollo de esta aplicación_
 
 ```
 Go v1.17
