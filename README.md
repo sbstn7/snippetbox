@@ -1,6 +1,6 @@
 # SNIPPETBOX
 
-_Proyecto desarrollado en GOLANG_
+_Proyecto desarrollado en **GOLANG**_
 
 
 ## Descripción de la aplicación  
